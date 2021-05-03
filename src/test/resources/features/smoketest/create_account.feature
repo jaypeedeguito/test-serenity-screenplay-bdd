@@ -9,7 +9,7 @@ Feature: Create an Account for Homeowner, Contractor and Supplier
       | First Name       | #                  |
       | Last Name        | #                  |
       | Email address    | home.auto@test.com |
-      | Phone Number     | 9086257460         |
+      | Phone Number     | 9081234567         |
       | Password         | Sc@ped2018         |
       | Confirm Password | Sc@ped2018         |
     * he clicks the button Next
@@ -36,7 +36,7 @@ Feature: Create an Account for Homeowner, Contractor and Supplier
       | First Name       | #                  |
       | Last Name        | #                  |
       | Email address    | prof.auto@test.com |
-      | Phone Number     | 9086257460         |
+      | Phone Number     | 9081234567         |
       | Password         | Sc@ped2018         |
       | Confirm Password | Sc@ped2018         |
     * he clicks the button Next
@@ -71,7 +71,7 @@ Feature: Create an Account for Homeowner, Contractor and Supplier
       | First Name       | #                  |
       | Last Name        | #                  |
       | Email address    | supp.auto@test.com |
-      | Phone Number     | 9086257460         |
+      | Phone Number     | 9081234567         |
       | Password         | Sc@ped2018         |
       | Confirm Password | Sc@ped2018         |
     * he clicks the button Next
